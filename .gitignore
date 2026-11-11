@@ -1,0 +1,13 @@
+/*
+!/README.md
+!/.gitignore
+!/work/
+/work/*
+!/work/1.py
+!/work/2.py
+!/work/3.py
+!/work/4.py
+!/work/5.py
+!/work/6.py
+!/work/7.py
+!/work/meteo_dashboard_3days.png
